@@ -1,0 +1,2 @@
+# ATM_Program
+This is a simple menu driven C program that enables bank customers to manage, verify, change their Personal Identification Number (PIN) on an Automated Teller Machine (ATM). The PIN must be 4 digits or else the user is given an appropriate error message. User also has the option to exit the program gracefully at will fromm within the program.  Development Environment: this program was developed in Visual Studio Code.  Author: Habeeb Alao  Date: 04/11/2020     Modified: 20/11/2020
