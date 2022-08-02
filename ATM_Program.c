@@ -43,7 +43,7 @@ int main(void)
      { //do while loop starts.
           //Main menu is displayed to the user. they are given 4 option and they are given an option to selcet one of them.
 
-          printf("\nWelcome to 🦄🟣The Purple Unicorn Bank🟣🦄 ATM\n\n");
+          printf("\nWelcome to The Bank ATM\n\n");
           printf("  1 • Enter PIN and verify correct\n");
           printf("  2 • Change Pin \n");
           printf("  3 • Display number of times PIN was entered\n");
